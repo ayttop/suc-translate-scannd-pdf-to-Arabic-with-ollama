@@ -6,7 +6,14 @@ Translation while preserving book formatting, translated text with illustrations
 Translate the illustrated books into Arabic, using Olama models, while preserving the original images, tables, graphs, and illustrations alongside the translated text.
 
 
+C:\a\MyTranslator-PDF-translation
 
+
+python 3.11
+win11
+
+python -m venv venv
+venv\Scripts\activate
 
 
 
