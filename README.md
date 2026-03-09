@@ -4,3 +4,17 @@ Translation while preserving book formatting, translated text with illustrations
 
 
 Translate the illustrated books into Arabic, using Olama models, while preserving the original images, tables, graphs, and illustrations alongside the translated text.
+
+
+
+
+
+
+
+Inspired by
+
+https://github.com/sultannbu/MyTranslator-PDF-translation/tree/main
+
+
+THANK YOU sultannbu
+
